@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 13.3.1//EN
+N:McHugh;Colin;;;
+FN:Colin McHugh
+ORG:West TN Consulting Strategic Consultant;
+EMAIL;type=INTERNET;type=HOME;type=pref:colin.mchugh@westtn.consulting
+TEL;type=pref:+18562757118
+END:VCARD
